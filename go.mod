@@ -16,7 +16,7 @@ require (
 	github.com/mrunalp/fileutils v0.0.0-20171103030105-7d4729fb3618
 	github.com/nestybox/sysbox-ipc v0.0.0-00010101000000-000000000000
 	github.com/opencontainers/runc v0.0.0-00010101000000-000000000000
-	github.com/opencontainers/runtime-spec v1.0.1
+	github.com/opencontainers/runtime-spec v0.1.2-0.20190207185410-29686dbc5559
 	github.com/opencontainers/selinux v1.2.2
 	github.com/pkg/errors v0.8.1
 	github.com/seccomp/libseccomp-golang v0.9.1
